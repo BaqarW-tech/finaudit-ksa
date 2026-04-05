@@ -3,7 +3,7 @@
 
 > **Built for KSA auditors, finance professionals, and Big4/mid-tier candidates seeking to stand out in the competitive Saudi market.**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://finaudit-ksa-tgcedns4nr7ezo5frcklzh.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![SOCPA](https://img.shields.io/badge/SOCPA-Aligned-gold)
@@ -92,7 +92,7 @@ streamlit run app.py
 
 ### Streamlit Cloud (Free)
 1. Fork this repo
-2. Go to [share.streamlit.io](https://share.streamlit.io)
+2. Go to [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://finaudit-ksa-tgcedns4nr7ezo5frcklzh.streamlit.app/)
 3. Deploy → select `app.py`
 4. Live in 2 minutes
 
