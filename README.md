@@ -172,7 +172,7 @@ Date,Amount_SAR,Account_Name,Description,Debit_Credit,Preparer
 ---
 
 ## Author
-
+# Muhammad Baqar 
 Built as a portfolio project for KSA audit / finance roles.
 Demonstrates: Python, financial audit methodology, IFRS/SOCPA knowledge, data analytics, and KSA regulatory awareness.
 
